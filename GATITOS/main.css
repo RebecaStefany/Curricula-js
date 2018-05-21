@@ -1,0 +1,20 @@
+.subtitle {
+  color:#838181;
+}
+
+.bg-dark {
+  background-color: #838181;
+  color: #ffffff;
+}
+
+.text-red {
+  color: green;
+}
+
+a {
+  color: inherit;
+}
+
+#userName {
+  color: red;
+}
